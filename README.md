@@ -2,7 +2,7 @@
 
 * [フィードバックの一覧](https://github.com/LambdaNote/polished-ruby-ja-feedbacks-beta1/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc)
 
-* [出版者による書籍ページ](https://www.lambdanote.com/products/polished-ruby-ja-beta)
+* [出版者による書籍ページ（発売後にページができます）](https://www.lambdanote.com/products/polished-ruby-ja-beta)
 
 ## Contribution
 
